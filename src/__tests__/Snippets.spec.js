@@ -27,7 +27,6 @@ describe('Snippets', () => {
     args = { dataLayer: { name: 'test' } }
     const dataLayerName = 'dataLayer'
     snippets = Snippets.dataLayer(args, dataLayerName)
-    console.log(snippets)
     expect(snippets).toContain('{"name":"test"}')
   })
 
