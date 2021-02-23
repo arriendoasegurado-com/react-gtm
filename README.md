@@ -9,6 +9,8 @@ This is a Javascript module to [React](https://facebook.github.io/react/) based 
 
 You can easily use custom dataLayer, multiple dataLayers and additional events.
 
+**This fork is adapted to Workers implementation https://developer.mozilla.org/en-US/docs/Web/API/Worker**
+
 ## Installation
 
 [npm](https://www.npmjs.com/):
