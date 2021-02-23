@@ -1,6 +1,6 @@
 {
   "name": "react-gtm-module-worker",
-  "version": "3.0.0-alpha",
+  "version": "3.0.1-alpha",
   "description": "React Google Tag Manager Module Adapted For Workers",
   "main": "dist/index.js",
   "scripts": {
